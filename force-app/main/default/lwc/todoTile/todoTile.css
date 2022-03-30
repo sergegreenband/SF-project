@@ -1,0 +1,12 @@
+.todo-tile {
+    border: 1px solid #95e2ec;
+    background-color: #ccd8f8;
+    border-radius: .25rem;
+    display: block;
+  }
+  .todo-silhouette {
+    height: 80px;
+  }
+  .todo-tile-body {
+    background: linear-gradient(180deg, rgb(215, 240, 223) 80%, #85d9ee 100%);
+  }

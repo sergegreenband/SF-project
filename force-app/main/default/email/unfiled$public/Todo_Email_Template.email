@@ -1,0 +1,1 @@
+A Todo "{!Todo__c.Name}" changed its status to "{!Todo__c.Status__c}"

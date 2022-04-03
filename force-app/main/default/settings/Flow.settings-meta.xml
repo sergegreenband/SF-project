@@ -18,7 +18,7 @@
     <isAccessToInvokedApexRequired>false</isAccessToInvokedApexRequired>
     <isApexPluginAccessModifierRespected>true</isApexPluginAccessModifierRespected>
     <isEnhancedFlowListViewVisible>true</isEnhancedFlowListViewVisible>
-    <isFlowApexContextRetired>true</isFlowApexContextRetired>
+    <isFlowApexContextRetired>false</isFlowApexContextRetired>
     <isManageFlowRequiredForAutomationCharts>false</isManageFlowRequiredForAutomationCharts>
     <isTimeResumedInSameRunContext>true</isTimeResumedInSameRunContext>
 </FlowSettings>

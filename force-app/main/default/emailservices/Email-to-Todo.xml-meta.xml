@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<EmailServicesFunction xmlns="http://soap.sforce.com/2006/04/metadata">
+    <apexClass>CreateTodoFromEmail</apexClass>
+    <attachmentOption>None</attachmentOption>
+    <authenticationFailureAction>Discard</authenticationFailureAction>
+    <authorizationFailureAction>Discard</authorizationFailureAction>
+    <emailServicesAddresses>
+        <authorizedSenders>s.yu.grishechkin@gmail.com</authorizedSenders>
+        <developerName>myEmail</developerName>
+        <isActive>true</isActive>
+        <localPart>email-to-todo</localPart>
+        <runAsUser>s.yu.grishechkin@creative-bear-vgytgu.com</runAsUser>
+    </emailServicesAddresses>
+    <functionInactiveAction>Discard</functionInactiveAction>
+    <functionName>Email-to-Todo</functionName>
+    <isActive>true</isActive>
+    <isAuthenticationRequired>false</isAuthenticationRequired>
+    <isErrorRoutingEnabled>false</isErrorRoutingEnabled>
+    <isTextAttachmentsAsBinary>false</isTextAttachmentsAsBinary>
+    <isTlsRequired>false</isTlsRequired>
+    <overLimitAction>Discard</overLimitAction>
+</EmailServicesFunction>
